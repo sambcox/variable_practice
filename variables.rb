@@ -13,3 +13,10 @@ highest_decibel = 126.7
 currently_online = true
 top_listener = false
 account_current = true
+
+name = "Sam Cox"
+favorite_song = "Wild Theme"
+
+puts [name,nil,email,nil,favorite_song]
+puts [nil,song_count,nil,album_count,nil,minutes_listened]
+puts [nil,currently_online,nil,highest_decibel]
